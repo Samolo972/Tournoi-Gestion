@@ -13,7 +13,6 @@ Ce projet est une application de gestion de tournois. Il permet d'ajouter, de mo
 
 ## 1. Clonez ce dépôt sur votre machine locale :
 
-bash
 git clone <lien-du-repo> `
 
 1.  Assurez-vous que PHP est installé sur votre système.
