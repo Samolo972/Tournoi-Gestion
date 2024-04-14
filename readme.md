@@ -1,4 +1,4 @@
-`# Gestion des Tournois
+## Gestion des Tournois
 
 Ce projet est une application de gestion de tournois. Il permet d'ajouter, de modifier et de supprimer des tournois à partir d'une interface web.
 
