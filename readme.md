@@ -11,9 +11,9 @@ Ce projet est une application de gestion de tournois. Il permet d'ajouter, de mo
 
 ## Installation
 
-1. Clonez ce dépôt sur votre machine locale :
+## 1. Clonez ce dépôt sur votre machine locale :
 
-```bash
+bash
 git clone <lien-du-repo> `
 
 1.  Assurez-vous que PHP est installé sur votre système.
@@ -29,8 +29,8 @@ Configuration
 
 Assurez-vous de configurer correctement les fichiers de configuration suivants :
 
--   `modele/bd.tournoi.inc.php` : Configuration de la connexion à la base de données pour la gestion des tournois.
--   `controleur/controleurTournoi.php` : Logique de gestion des tournois.
+-   modele/bd.tournoi.inc.php` : Configuration de la connexion à la base de données pour la gestion des tournois.
+-   controleur/controleurTournoi.php` : Logique de gestion des tournois.
 
 Utilisation
 -----------
@@ -57,4 +57,4 @@ Licence
 
 
 
- `N'hésitez pas à personnaliser le contenu en fonction des besoins spécifiques de votre projet.`
+ N'hésitez pas à personnaliser le contenu en fonction des besoins spécifiques de votre projet.
